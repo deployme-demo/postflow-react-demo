@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react';
+import React, { useEffect, useMemo, useState } from 'react';
 
 const API = 'https://jsonplaceholder.typicode.com';
 const gradients = ['violet', 'orange', 'mint', 'blue', 'rose', 'sunny'];
